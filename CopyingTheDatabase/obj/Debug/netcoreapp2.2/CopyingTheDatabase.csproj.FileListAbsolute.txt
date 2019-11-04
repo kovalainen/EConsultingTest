@@ -1,0 +1,11 @@
+C:\Users\Bogdan\source\repos\EConsultingTest\CopyingTheDatabase\bin\Debug\netcoreapp2.2\CopyingTheDatabase.deps.json
+C:\Users\Bogdan\source\repos\EConsultingTest\CopyingTheDatabase\bin\Debug\netcoreapp2.2\CopyingTheDatabase.runtimeconfig.json
+C:\Users\Bogdan\source\repos\EConsultingTest\CopyingTheDatabase\bin\Debug\netcoreapp2.2\CopyingTheDatabase.runtimeconfig.dev.json
+C:\Users\Bogdan\source\repos\EConsultingTest\CopyingTheDatabase\bin\Debug\netcoreapp2.2\CopyingTheDatabase.dll
+C:\Users\Bogdan\source\repos\EConsultingTest\CopyingTheDatabase\bin\Debug\netcoreapp2.2\CopyingTheDatabase.pdb
+C:\Users\Bogdan\source\repos\EConsultingTest\CopyingTheDatabase\obj\Debug\netcoreapp2.2\CopyingTheDatabase.csprojAssemblyReference.cache
+C:\Users\Bogdan\source\repos\EConsultingTest\CopyingTheDatabase\obj\Debug\netcoreapp2.2\CopyingTheDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\EConsultingTest\CopyingTheDatabase\obj\Debug\netcoreapp2.2\CopyingTheDatabase.AssemblyInfoInputs.cache
+C:\Users\Bogdan\source\repos\EConsultingTest\CopyingTheDatabase\obj\Debug\netcoreapp2.2\CopyingTheDatabase.AssemblyInfo.cs
+C:\Users\Bogdan\source\repos\EConsultingTest\CopyingTheDatabase\obj\Debug\netcoreapp2.2\CopyingTheDatabase.dll
+C:\Users\Bogdan\source\repos\EConsultingTest\CopyingTheDatabase\obj\Debug\netcoreapp2.2\CopyingTheDatabase.pdb

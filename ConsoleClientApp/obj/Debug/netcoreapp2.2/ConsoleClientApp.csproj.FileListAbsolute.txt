@@ -1,0 +1,11 @@
+C:\Users\Bogdan\source\repos\EConsultingTest\ConsoleClientApp\bin\Debug\netcoreapp2.2\ConsoleClientApp.deps.json
+C:\Users\Bogdan\source\repos\EConsultingTest\ConsoleClientApp\bin\Debug\netcoreapp2.2\ConsoleClientApp.runtimeconfig.json
+C:\Users\Bogdan\source\repos\EConsultingTest\ConsoleClientApp\bin\Debug\netcoreapp2.2\ConsoleClientApp.runtimeconfig.dev.json
+C:\Users\Bogdan\source\repos\EConsultingTest\ConsoleClientApp\bin\Debug\netcoreapp2.2\ConsoleClientApp.dll
+C:\Users\Bogdan\source\repos\EConsultingTest\ConsoleClientApp\bin\Debug\netcoreapp2.2\ConsoleClientApp.pdb
+C:\Users\Bogdan\source\repos\EConsultingTest\ConsoleClientApp\obj\Debug\netcoreapp2.2\ConsoleClientApp.csprojAssemblyReference.cache
+C:\Users\Bogdan\source\repos\EConsultingTest\ConsoleClientApp\obj\Debug\netcoreapp2.2\ConsoleClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\EConsultingTest\ConsoleClientApp\obj\Debug\netcoreapp2.2\ConsoleClientApp.AssemblyInfoInputs.cache
+C:\Users\Bogdan\source\repos\EConsultingTest\ConsoleClientApp\obj\Debug\netcoreapp2.2\ConsoleClientApp.AssemblyInfo.cs
+C:\Users\Bogdan\source\repos\EConsultingTest\ConsoleClientApp\obj\Debug\netcoreapp2.2\ConsoleClientApp.dll
+C:\Users\Bogdan\source\repos\EConsultingTest\ConsoleClientApp\obj\Debug\netcoreapp2.2\ConsoleClientApp.pdb

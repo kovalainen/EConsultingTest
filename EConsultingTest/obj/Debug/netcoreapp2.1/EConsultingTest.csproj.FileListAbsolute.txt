@@ -1,0 +1,14 @@
+C:\Users\Bogdan\source\repos\EConsultingTest\EConsultingTest\bin\Debug\netcoreapp2.1\EConsultingTest.deps.json
+C:\Users\Bogdan\source\repos\EConsultingTest\EConsultingTest\bin\Debug\netcoreapp2.1\EConsultingTest.runtimeconfig.json
+C:\Users\Bogdan\source\repos\EConsultingTest\EConsultingTest\bin\Debug\netcoreapp2.1\EConsultingTest.runtimeconfig.dev.json
+C:\Users\Bogdan\source\repos\EConsultingTest\EConsultingTest\bin\Debug\netcoreapp2.1\EConsultingTest.dll
+C:\Users\Bogdan\source\repos\EConsultingTest\EConsultingTest\obj\Debug\netcoreapp2.1\EConsultingTest.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\EConsultingTest\EConsultingTest\obj\Debug\netcoreapp2.1\EConsultingTest.RazorAssemblyInfo.cache
+C:\Users\Bogdan\source\repos\EConsultingTest\EConsultingTest\obj\Debug\netcoreapp2.1\EConsultingTest.RazorAssemblyInfo.cs
+C:\Users\Bogdan\source\repos\EConsultingTest\EConsultingTest\obj\Debug\netcoreapp2.1\EConsultingTest.AssemblyInfoInputs.cache
+C:\Users\Bogdan\source\repos\EConsultingTest\EConsultingTest\obj\Debug\netcoreapp2.1\EConsultingTest.AssemblyInfo.cs
+C:\Users\Bogdan\source\repos\EConsultingTest\EConsultingTest\obj\Debug\netcoreapp2.1\EConsultingTest.RazorTargetAssemblyInfo.cache
+C:\Users\Bogdan\source\repos\EConsultingTest\EConsultingTest\bin\Debug\netcoreapp2.1\EConsultingTest.pdb
+C:\Users\Bogdan\source\repos\EConsultingTest\EConsultingTest\obj\Debug\netcoreapp2.1\EConsultingTest.dll
+C:\Users\Bogdan\source\repos\EConsultingTest\EConsultingTest\obj\Debug\netcoreapp2.1\EConsultingTest.pdb
+C:\Users\Bogdan\source\repos\EConsultingTest\EConsultingTest\obj\Debug\netcoreapp2.1\EConsultingTest.csprojAssemblyReference.cache
